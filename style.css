@@ -1,0 +1,21 @@
+.car{
+    width: 100%;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+.car:hover img{
+    margin-left: 100%;
+    transition: 10s ease-in-out;
+}
+
+.two:hover img{
+    margin-left: 100%;
+    transition: 8s ease-in-out;
+}
+
+
+.fi:hover img{
+    margin-left: 100%;
+    transition: 5s ease-in-out;
+}
